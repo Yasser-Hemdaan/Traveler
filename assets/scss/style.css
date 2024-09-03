@@ -2669,7 +2669,7 @@ textarea:-ms-input-placeholder {
 input {
   border: 1px solid #ececec;
   border-radius: 10px;
-  height: 50px;
+  height: 40px;
   -webkit-box-shadow: none;
           box-shadow: none;
   padding-left: 20px;

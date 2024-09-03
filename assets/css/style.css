@@ -13780,6 +13780,7 @@ a.link-black:hover svg {
 
 .block-banner-tour-detail-4 {
   position: relative;
+  z-index: 0;
 }
 
 .box-banner-tour-detail-5 .box-banner-tour-detail-5-inner {
