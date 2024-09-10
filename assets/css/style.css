@@ -26,7 +26,8 @@ TABLE CONTENT
  WP STYPE
  Custom amine
 ***/
-@import url(https://fonts.bunny.net/css?family=manrope:400,500,700,800|merienda-one:400);
+
+@import url(https://fonts.bunny.net/css?family=uicons-regular-rounded:400,500,700,800|merienda-one:400);
 @import url(../css/vendors/normalize.css);
 @import url(../css/vendors/bootstrap.min.css);
 @import url(../css/vendors/uicons-regular-rounded.css);
@@ -516,14 +517,14 @@ a {
 .display-1 {
   font-size: 96px;
   line-height: 76px;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 400;
 }
 
 .display-2 {
   font-size: 82px;
   line-height: 76px;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 400;
 }
 
@@ -539,7 +540,7 @@ h6,
 .heading-4,
 .heading-5,
 .heading-6 {
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 800;
 }
 
@@ -632,7 +633,7 @@ h6,
 .text-lg,
 .text-xl,
 .text-label {
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 500;
 }
 
@@ -696,14 +697,14 @@ h6,
   font-size: 15px;
   line-height: 23px;
   font-weight: 500;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-20-medium {
   font-size: 20px;
   line-height: 26px;
   font-weight: 500;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-24-semibold {
@@ -711,77 +712,77 @@ h6,
   line-height: 29px;
   font-weight: 600;
   letter-spacing: 3%;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-24-bold {
   font-size: 24px;
   line-height: 34px;
   font-weight: 700;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-22-bold {
   font-size: 22px;
   line-height: 28px;
   font-weight: 700;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-20-medium {
   font-size: 20px;
   line-height: 22px;
   font-weight: 500;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-18-bold {
   font-size: 18px;
   line-height: 28px;
   font-weight: 700;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-16-bold {
   font-size: 16px;
   line-height: 16px;
   font-weight: 700;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-18-semibold {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-32-bold {
   font-size: 32px;
   line-height: 42px;
   font-weight: 700;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-48-semibold {
   font-size: 48px;
   line-height: 55px;
   font-weight: 600;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-88-semibold {
   font-size: 88px;
   line-height: 76px;
   font-weight: 600;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-96 {
   font-size: 96px !important;
   line-height: 103px !important;
   font-weight: 400 !important;
-  font-family: "Manrope", sans-serif !important;
+  font-family: "uicons-regular-rounded", sans-serif !important;
 }
 
 .linear-3 {
@@ -872,7 +873,7 @@ h6,
   border-radius: 50%;
   text-align: center;
   padding: 0px;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-size: 18px;
   font-weight: 600;
   color: var(--bs-neutral-500);
@@ -1925,7 +1926,7 @@ h6,
   height: auto;
   background-color: transparent;
   padding-left: 22px !important;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-size: 14px;
   line-height: 22px;
   font-weight: 700;
@@ -2100,7 +2101,7 @@ h4 {
 /*TYPOGRAPHY*/
 body {
   color: var(--bs-color-1000);
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-size: 14px;
   line-height: 24px;
   font-style: normal;
@@ -2108,7 +2109,7 @@ body {
 }
 
 .btn {
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   border-radius: 0px;
   padding: 14px 23px;
   font-size: 18px;
@@ -2144,7 +2145,7 @@ body {
   color: var(--bs-neutral-0) !important;
   font-size: 14px !important;
   line-height: 22px !important;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 700 !important;
   background-color: var(--bs-neutral-1000);
   border-radius: 50px;
@@ -2161,7 +2162,7 @@ body {
   color: var(--bs-neutral-1000) !important;
   font-size: 14px !important;
   line-height: 22px !important;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 700 !important;
   background-color: var(--bs-button-bg-2);
   border-radius: 50px;
@@ -2188,7 +2189,7 @@ body {
   color: var(--bs-neutral-0) !important;
   font-size: 16px !important;
   line-height: 26px !important;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 700 !important;
   background-color: var(--bs-neutral-1000);
   border-radius: 50px;
@@ -2222,7 +2223,7 @@ body {
   color: var(--bs-neutral-0) !important;
   font-size: 16px !important;
   line-height: 26px !important;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 700 !important;
   background-color: var(--bs-neutral-1000);
   border-radius: 8px;
@@ -2256,7 +2257,7 @@ body {
   color: var(--bs-neutral-1000) !important;
   font-size: 16px !important;
   line-height: 26px !important;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-weight: 700 !important;
   background-color: var(--bs-button-bg-2);
   border-radius: 8px;
@@ -3149,7 +3150,7 @@ textarea:focus {
   font-size: 16px;
   line-height: 16px;
   font-weight: 600;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   margin-bottom: 16px;
 }
 
@@ -5964,7 +5965,7 @@ label {
 
 .banner-hero.hero-1 .banner-inner {
   padding-top: 200px;
-  padding-bottom: 176px;
+  /* padding-bottom: 176px; */
   position: relative;
 }
 
@@ -6264,7 +6265,7 @@ label {
 }
 
 .header .main-menu li a {
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -6320,7 +6321,7 @@ label {
   position: relative;
   padding: 10px 25px 10px 15px;
   transition: 0.3s;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
   font-style: normal;
   font-weight: 500;
   display: inline-block;
@@ -9891,8 +9892,8 @@ a.icon-socials:hover svg {
 }
 
 .banner-image {
-  /* min-height: 769px; */
-  padding-bottom: 250px;
+  min-height: 769px;
+  /* padding-bottom: 250px; */
 }
 
 .banner-image.banner-image1 {
@@ -9951,7 +9952,7 @@ a.icon-socials:hover svg {
 }
 
 .slider-thumnail {
-  top: 60px;
+  top: 90px;
   position: absolute;
   width: 247px;
   z-index: 110;
@@ -14606,14 +14607,14 @@ a.link-black:hover svg {
   font-size: 86px;
   line-height: 86px;
   font-weight: bold;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .text-64-medium {
   font-size: 64px;
   line-height: 76px;
   font-weight: 400;
-  font-family: "Manrope", sans-serif;
+  font-family: "uicons-regular-rounded", sans-serif;
 }
 
 .box-next-trips {
