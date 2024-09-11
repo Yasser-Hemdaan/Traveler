@@ -9,7 +9,7 @@
   Issues: http://github.com/kenwheeler/slick/issues
  */
 .slick-slider {
-  position: relative;
+  /* position: relative;
   display: block;
   box-sizing: border-box;
   -webkit-user-select: none;
@@ -22,7 +22,7 @@
   touch-action: pan-y;
   -webkit-tap-highlight-color: transparent;
   height: 100dvh !important;
-  overflow: hidden;
+  overflow: hidden; */
 }
 .slick-list {
   position: relative;
