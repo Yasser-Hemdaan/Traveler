@@ -541,14 +541,13 @@ h6,
 .heading-5,
 .heading-6 {
   font-family: "uicons-regular-rounded", sans-serif;
-  
 }
 
 h1,
 .heading-1 {
-  font-size: 48px;
+  font-size: 50px;
   line-height: 76px;
-font-weight: 700;
+  font-weight: 700;
 }
 
 h2,
@@ -578,7 +577,7 @@ h5,
 
 h6,
 .heading-6 {
-  font-size: 14px;
+  font-size: 20px;
   line-height: 32px;
 }
 
@@ -8251,7 +8250,7 @@ label {
   color: var(--bs-color-white);
   margin-bottom: 16px;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 28px;
 }
 
@@ -8429,6 +8428,7 @@ label {
 .box-info-contact p {
   margin-bottom: 19px;
   color: gray !important;
+  font-size: 14px;
 }
 
 .icon-address {
