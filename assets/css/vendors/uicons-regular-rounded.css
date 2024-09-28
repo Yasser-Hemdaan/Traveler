@@ -6,6 +6,14 @@
     url("../../fonts/uicons/uicons-regular-rounded.woff") format("woff"); */
 }
 
+@font-face {
+  font-family: "uicons-SemiBold-rounded";
+  src: url("../../fonts/Unbounded/Unbounded-SemiBold.ttf");
+  /* src: url("../../fonts/uicons/uicons-regular-rounded.eot#iefix") format("embedded-opentype"), 
+    url("../../fonts/uicons/uicons-regular-rounded.woff2") format("woff2"), 
+    url("../../fonts/uicons/uicons-regular-rounded.woff") format("woff"); */
+}
+
 i[class^="fi-rr-"],
 span[class^="fi-rr-"] {
   line-height: 0 !important;

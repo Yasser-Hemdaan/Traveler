@@ -8806,7 +8806,7 @@ a.icon-socials:hover svg {
 }
 
 .banner-main .banner-image .container {
-  padding-top: 136px;
+  padding-top: 196px !important;
 }
 
 .slick-prev,
