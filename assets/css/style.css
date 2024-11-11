@@ -2166,7 +2166,7 @@ body {
 }
 
 .btn:hover {
-  color: var(--bs-warning);
+  color: var(--bs-brand-secondary);
 }
 
 .btn.btn-dropdown {
@@ -2725,6 +2725,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 .btn.btn-book svg {
@@ -4529,7 +4530,7 @@ label {
 }
 
 .card-news .card-info .card-title a:hover {
-  color: var(--bs-warning) !important;
+  color: var(--bs-brand-secondary) !important;
 }
 
 .card-news .card-info .card-program {
@@ -4808,7 +4809,7 @@ label {
 }
 
 .card-why-travel .card-info .card-title:hover {
-  color: var(--bs-warning);
+  color: var(--bs-brand-secondary);
 }
 
 .card-why-travel .card-info .card-desc {
@@ -5825,7 +5826,7 @@ label {
 }
 
 .card-contact .card-info .card-title a:hover {
-  color: var(--bs-warning);
+  color: var(--bs-brand-secondary);
 }
 
 .card-contact .card-info .card-title p {
@@ -5842,7 +5843,7 @@ label {
 }
 
 .card-contact .card-info .card-method-contact a:hover {
-  color: var(--bs-warning);
+  color: var(--bs-brand-secondary);
 }
 
 .card-contact .card-info .card-method-contact a:hover svg {
@@ -6824,7 +6825,7 @@ label {
 }
 
 .icon-lang:hover {
-  color: var(--bs-warning) !important;
+  color: var(--bs-brand-secondary) !important;
 }
 
 .icon-lang span {
@@ -10683,6 +10684,23 @@ a.icon-socials:hover svg {
   .banner-main .banner-image .container {
     padding-right: 0 !important;
     margin: 0 !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .banner-image {
+    min-height: 668px !important;
+  }
+  .banner-main .banner-image .container {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+    margin: 0 !important;
+  }
+  .banner-main .banner-image .container h1 {
+    font-size: 30px !important;
+  }
+  .banner-main .banner-image .container h4 {
+    font-size: 15px !important;
   }
 }
 
