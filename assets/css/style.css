@@ -14725,7 +14725,7 @@ a.link-black:hover svg {
 }
 
 .group-collapse-expand .card.card-body ul {
-  list-style: disc;
+  list-style-type: none;
   color: var(--bs-neutral-800);
   padding: 0px 0px 0px 20px;
 }
